@@ -1,2 +1,2 @@
 # faculdade
-Meus arquivos de faculdade | Análise e Desenvolvimento de Sistemas
+Arquivos de faculdade | Análise e Desenvolvimento de Sistemas
